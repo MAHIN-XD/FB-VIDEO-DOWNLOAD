@@ -1,5 +1,5 @@
 <?php
-//Main Tools:https://github.com/KgHasan
+//Main Tools:https://github.com/MAHIN-XD
 //Open Source Tools
 //Share With Give Credit To Owner
 function curl($url) {
